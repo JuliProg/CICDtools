@@ -1,3 +1,2 @@
-# Software
-This is a service utility for organizing the 
-CI/CD pipeline
+This is a service utility for the organization
+the JuliProg CI / CD pipeline 
